@@ -1,4 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/classnames-rails.svg)](http://badge.fury.io/rb/classnames-rails)
+[![Code Climate](https://codeclimate.com/github/andyyou/classnames-rails/badges/gpa.svg)](https://codeclimate.com/github/andyyou/classnames-rails)
 [![Travis](https://travis-ci.org/andyyou/classnames-rails.svg?branch=master)](https://travis-ci.org/andyyou/classnames-rails)
 # classnames-rails
 
