@@ -1,4 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/classnames-rails.svg)](http://badge.fury.io/rb/classnames-rails)
+
 # classnames-rails
+
 Classnames for Rails - a gem package fork from [classnames](https://github.com/JedWatson/classnames).
 A simple javascript utility for conditionally joining classNames together.
 
